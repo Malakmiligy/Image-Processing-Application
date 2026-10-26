@@ -34,7 +34,7 @@ OR
 1- open the project using VS code.
 2- open Final Project.cpp
 3- Run by writing:
-g++ "Final Project.cpp" -o program.exe 
+g++ "FinalProject.cpp" -o program.exe 
 then :
 .\program.exe
 
